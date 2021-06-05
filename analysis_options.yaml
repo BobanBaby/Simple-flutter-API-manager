@@ -1,0 +1,2 @@
+#Remove # from below statement to enable lint
+include: package:pedantic/analysis_options.yaml
